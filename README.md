@@ -1,1 +1,1 @@
-# djangoapp_trest
+# djangoapp_test
